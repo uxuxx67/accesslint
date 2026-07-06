@@ -1,5 +1,7 @@
 # AccessLint
 
+*[Русская версия](README.ru.md)*
+
 A zero-dependency Node.js CLI that scans HTML files for common WCAG 2.1 accessibility issues — missing `alt` attributes, unlabeled form inputs, non-descriptive link text, missing `lang` attribute, and skipped heading levels.
 
 ## Why
